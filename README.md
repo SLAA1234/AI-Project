@@ -1,5 +1,9 @@
 # AI-Project
 
+Open code in colab:
+
+Open .ipynb file in github, then click "open in colab" button shows on top of the file. 
+
 
 Binary Classification
 
