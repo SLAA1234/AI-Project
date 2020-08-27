@@ -23,7 +23,7 @@ Regression
 
 In Regression project models are built to analyze the relations between Boston's house price and the other 13 influential factors. 
 
-Dataset: housing.csv (this csv file is under this repository)
+Dataset: housing.csv (this csv file is under this repository). To download the file: open the file, click Raw, and then save as housing.csv.
 
 Data can also be download from https://www.kaggle.com/vikrishnan/boston-house-prices
 
@@ -32,7 +32,7 @@ Cluster
 
 In Clustering project models are built to do customer segmentation.
 
-Dataset: customers.csv (this csv file is under this repository)
+Dataset: customers.csv (this csv file is under this repository) To download the file: open the file, click Raw, and then save as customers.csv.
 
 Data can also be download from https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
